@@ -1438,6 +1438,7 @@ The firmware can operate as a DMR (**voice only**) hotspot when connected via it
 *Note:*
 
 - Hotspot mode may be compatible with software like **BlueDV**, but your mileage may vary.
+- Hotspot mode is [tested to be compatible with latter versions of Mac OSX using MMDVMHost](http://opengd77.com/viewtopic.php?f=9&t=611). [Download the binary here](http://opengd77.com/download/file.php?id=650&sid=1ccde2be08abba986c0854bf6abd319d).
 
 First, connect the radio to a Raspberry Pi via its programming cable.
 
